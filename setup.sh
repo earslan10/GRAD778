@@ -2,5 +2,5 @@
 
 mkdir ~/.aws
 mv config ~/.aws/
-mv credential ~/.aws/
+mv credentials ~/.aws/
 pip3 install -r requirements.txt 
